@@ -1,0 +1,190 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+#afbeelding{
+    width: 10%;
+    display: block;
+    margin: 0 auto 20px;
+    min-width: 272px;
+}
+
+#input{
+    box-sizing: border-box;
+    display: block;
+    border-radius: 24px;
+height: 44px;
+margin: 0 auto 29px;
+max-width: 564px;
+width: 90%;
+padding-left: 30px;
+font-size: 16px;
+border: 1px solid rgb(223, 225, 229);
+}
+
+#but1, #but2{
+    box-sizing: border-box;
+    margin-top: 0;
+    padding: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    height: 36px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    cursor: pointer;
+
+}
+
+button:first-of-type {
+    margin-right: 8px;
+    margin-left: calc(50% - 131.5px);
+}
+
+button::hover {
+    cursor: pointer;   
+}
+
+#container{
+    width: auto;
+    display: flex;
+    padding: 10px;
+   padding-top: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+
+.over{
+    
+    padding-right: 15px;
+    padding-left: 20px;
+    color: black;
+}
+
+
+.store{
+    color: black;
+}
+.gmail{
+    color: black;
+    padding-left: 890px;
+    padding-right: 20px;
+}
+
+.afbeeldingen{
+    color: black;
+    padding-right: 20px;
+}
+
+.engels{
+    box-sizing: border-box;
+    padding-top: 25px;
+    padding-left: 5px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+.uU7dJb {
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+}
+.gb_A{
+   box-sizing: border-box;
+   display: inline-block;
+   width: 2%;
+   
+ 
+}
+
+.appsa{
+    box-sizing: border-box;
+    display: block;
+    width: 40px;
+border-radius: 50ch;
+padding-left: 20px;
+padding-bottom: 30px;
+padding-right: 20px;}
+
+.appsb{
+   width: 29px;
+    border-radius: 40px;
+    
+}
+.nederland{
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    background-color: #ececec;
+}
+.coimage{
+    width: 13px;
+    padding-right: 7px;
+    
+}
+.co{
+box-sizing: border-box;
+display: flex;
+padding-left: 62px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color:#ececec ;
+    cursor: pointer;
+    padding:  17px 95px 17px ;
+    
+}
+.co:hover{
+    text-decoration: underline;
+}
+
+#onderste{
+    box-sizing: border-box;
+    display: flex;
+    background-color:#ececec ;
+    padding-bottom: 0;
+}
+
+.onder1{
+    box-sizing: border-box;
+    padding: 17px 15px 0 35px;
+    
+}
+.onder2{
+    box-sizing: border-box;
+    padding: 17px 15px 0 8px;
+}
+.onderkleur{
+    color: black;
+}
+.onder3{
+    box-sizing: border-box;
+    padding: 17px 120px 0 8px;
+}
+.onder4{
+    box-sizing: border-box;
+    padding: 17px 15px 0 200px;
+}
+.onder5{
+    box-sizing: border-box;
+    padding: 17px 15px 0 8px;
+}
+.onder6{
+    box-sizing: border-box;
+    padding: 17px 15px 0 8px;
+}
+
+#link{
+border-radius: 40%;
+}
+#grijs{
+    padding-bottom: 77px;
+}
